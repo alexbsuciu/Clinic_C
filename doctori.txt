@@ -1,0 +1,7 @@
+ana,petronela,6020302654322,cardiolog
+andrei,alex,5020614566645,pediatru
+maluma,laur,5020202654345,oftalmolog
+maluma,laura,6021212654315,ortoped
+marin,marian,5020232652145,pediatru
+stoia,teodora,6045675434565,pediatru
+suciu,alexandru,502061434365,oftalmolog

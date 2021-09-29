@@ -1,0 +1,6 @@
+melinda,balanta,123456789102,trimitere,27/03/2005,oftalmologie
+maluma,laurentiu,5436424564213,trimitere,17/02/2020,cardiologie
+melinda,balanta,123456789102,trimitere,30/03/2021,oftalmologie
+pietroi,claurentia,6045634564234,trimitere,30/03/2021,psihiatrie
+popescu,stela,6020402456324,fara,13/04/2021,psihiatrie
+pietroi,claurentia,6045634564234,trimitere,13/04/2021,psihiatrie
